@@ -1,0 +1,2 @@
+﻿  소스.cpp
+C:\2026-4\maze\소스.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'Location2D.h': No such file or directory
